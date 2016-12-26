@@ -1,0 +1,22 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "AngularJS (1.5) with D3JS(v3) and Nodejs",
+  "main": "server.js",
+  "dependencies": {
+    "browserify": "^13.1.1",
+    "express": "^4.14.0",
+    "jsonfile": "^2.4.0",
+    "path": "^0.12.7",
+    "request": "^2.79.0",
+    "open": "^0.0.5",
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "vuongnguyen",
+  "license": "ISC"
+}
